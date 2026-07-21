@@ -4,5 +4,7 @@
 ## Project: Simple python project
 ### Institute: THE SUFI INSTITUTE
 
-Hi this is Khuda Bux and I am student of IT.
-And this is my first python project.
+Hi this is Khuda Bux and I am student of IT.\
+And this is my first python project.\
+
+this is my portfolio project.
