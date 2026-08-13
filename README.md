@@ -1,4 +1,4 @@
-<img width="500" height="444" alt="1759595002369 instasquare photoeditor effect cutout_20259421743724" src="https://github.com/user-attachments/assets/b4811932-b54d-48b8-a2ba-8a063ad52e59" />
+<img width="250" height="444" alt="1759595002369 instasquare photoeditor effect cutout_20259421743724" src="https://github.com/user-attachments/assets/b4811932-b54d-48b8-a2ba-8a063ad52e59" />
 
 # Name: KHUDA BUX
 ## Project: Simple python project
